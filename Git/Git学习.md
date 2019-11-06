@@ -1,7 +1,6 @@
 #Git常用命令#
-	 master | 默认开发分支 
- 	 - | - | -
- 	 origin | 默认远程版本库
+	master | 默认开发分支 
+	origin | 默认远程版本库
 
 ## 1.创建版本库 ##
 	git clone <url>  #克隆远程版本库
